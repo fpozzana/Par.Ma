@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : JTAGfootprint.dra                             )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Fri Jan 10 11:40:56 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS
+    Name      = jtagfootprint.psm
+    User      = FEDERICO
+    Machine   = PC-FEDERICO
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

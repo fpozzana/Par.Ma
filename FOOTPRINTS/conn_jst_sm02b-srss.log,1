@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CONN_JST_SM02B-SRSS.dra                       )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Wed Dec 04 11:47:47 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/FEDERICO/Desktop/AllegroV17_2
+    Name      = conn_jst_sm02b-srss.psm
+    User      = FEDERICO
+    Machine   = PC-FEDERICO
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

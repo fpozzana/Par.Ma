@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : 0603_L.dra                                    )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Mon Jul 16 16:48:46 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/BioWatch/library/footprints
+    Name      = 0603_l.psm
+    User      = S241559
+    Machine   = NEUROLAB
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

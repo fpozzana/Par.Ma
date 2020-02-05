@@ -1,0 +1,406 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Dec 16 17:58:21 2019
+\t (00:00:00)         Host=PC-FEDERICO User=FEDERICO Pid=11376 CPUs=4
+\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\CONN_JST_SM02B-SRSS.dra
+\t (00:00:00) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: C:/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/CONN_JST_SM02B-SRSS.dra
+\i (00:00:04) trapsize 3302
+\i (00:00:04) trapsize 3420
+\i (00:00:04) trapsize 3420
+\i (00:00:05) etchedit 
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 18.936 -11.768
+\i (00:00:05) trapsize 6840
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out -141.114 -52.805
+\i (00:00:06) trapsize 13679
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -511.710 -25.447
+\i (00:00:06) trapsize 6840
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -462.464 -25.447
+\i (00:00:06) trapsize 3420
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -165.620 -50.070
+\i (00:00:07) trapsize 6840
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -105.430 -50.070
+\i (00:00:07) trapsize 13679
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 86.083 -3.560
+\i (00:00:07) trapsize 6840
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 95.659 -3.560
+\i (00:00:08) trapsize 3420
+\i (00:00:11) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: ASSEMBLY TOP"
+\i (00:00:11) color -globvis off 
+\i (00:00:11) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:00:11) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_TOP' 
+\i (00:00:11) color -vis 'REF DES/ASSEMBLY_TOP' 
+\i (00:00:11) trapsize 3420
+\i (00:00:11) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: ASSEMBLY TOP"
+\i (00:00:11) etchedit 
+\i (00:00:17) drag_start grid -113.637 -7.663
+\i (00:00:18) drag_stop 68.984 -9.031
+\i (00:00:19) pick grid -72.599 1.228
+\t (00:00:19) last pick:  -72.600 1.200
+\i (00:00:22) delete 
+\i (00:00:23) pick grid -74.651 -3.559
+\t (00:00:23) last pick:  -74.700 -3.600
+\t (00:00:23) Text "Ref"
+\i (00:00:25) delete 
+\i (00:00:27) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: ASSEMBLYB"
+\i (00:00:27) color -globvis off 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:00:27) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_BOTTOM' 
+\i (00:00:27) color -vis 'REF DES/ASSEMBLY_BOTTOM' 
+\i (00:00:27) trapsize 3420
+\i (00:00:27) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: ASSEMBLYB"
+\i (00:00:29) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: ASSEMBLYB"
+\i (00:00:30) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: ASSEMBLYT"
+\i (00:00:30) color -globvis off 
+\i (00:00:30) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:00:30) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_TOP' 
+\i (00:00:30) color -vis 'REF DES/ASSEMBLY_TOP' 
+\i (00:00:30) trapsize 3420
+\i (00:00:30) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: ASSEMBLYT"
+\i (00:00:32) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: ETCHB"
+\i (00:00:32) color -globvis off 
+\i (00:00:32) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:00:32) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:00:32) color -vis ETCH/BOTTOM 
+\i (00:00:32) color -vis PIN/BOTTOM 
+\i (00:00:32) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:00:32) color -vis 'ANTI ETCH/BOTTOM' 
+\i (00:00:32) color -vis BOUNDARY/BOTTOM 
+\i (00:00:32) color -vis CAVITY/BOTTOM 
+\i (00:00:32) trapsize 3420
+\i (00:00:32) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: ETCHB"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: ETCHT"
+\i (00:00:33) color -globvis off 
+\i (00:00:33) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:00:33) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:00:33) color -vis ETCH/TOP 
+\i (00:00:33) color -vis PIN/TOP 
+\i (00:00:33) color -vis 'VIA CLASS/TOP' 
+\i (00:00:33) color -vis 'ANTI ETCH/TOP' 
+\i (00:00:33) color -vis BOUNDARY/TOP 
+\i (00:00:33) color -vis CAVITY/TOP 
+\i (00:00:33) trapsize 3420
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: ETCHT"
+\i (00:00:37) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: PASTEMASKT"
+\i (00:00:37) color -globvis off 
+\i (00:00:37) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:00:37) color -vis 'DRC ERROR CLASS/PASTEMASK_TOP' 
+\i (00:00:37) color -vis PIN/PASTEMASK_TOP 
+\i (00:00:37) color -vis 'VIA CLASS/PASTEMASK_TOP' 
+\i (00:00:37) trapsize 3420
+\i (00:00:37) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: PASTEMASKT"
+\i (00:00:40) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SILK ETCH TOP"
+\i (00:00:40) color -globvis off 
+\i (00:00:40) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:00:40) color -vis 'BOARD GEOMETRY/SILKSCREEN_TOP' 
+\i (00:00:40) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:00:40) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:00:40) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:00:40) color -vis ETCH/TOP 
+\i (00:00:40) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (00:00:40) color -vis PIN/TOP 
+\i (00:00:40) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:00:40) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:00:40) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:00:40) color -vis 'VIA CLASS/TOP' 
+\i (00:00:40) color -vis 'ANTI ETCH/TOP' 
+\i (00:00:40) color -vis BOUNDARY/TOP 
+\i (00:00:40) color -vis CAVITY/TOP 
+\i (00:00:40) trapsize 3420
+\i (00:00:40) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: SILK ETCH TOP"
+\i (00:00:43) delete 
+\i (00:00:44) pick grid -77.386 -7.663
+\t (00:00:44) last pick:  -77.400 -7.700
+\t (00:00:44) Text "Val"
+\i (00:00:45) delete 
+\i (00:00:46) pick grid -77.386 -0.140
+\t (00:00:46) last pick:  -77.400 -0.100
+\t (00:00:46) Text "Ref"
+\i (00:00:47) delete 
+\i (00:00:48) pick grid -82.174 -8.347
+\t (00:00:48) last pick:  -82.200 -8.300
+\t (00:00:48) Text "Dev"
+\i (00:00:49) delete 
+\i (00:00:50) pick grid -69.863 -12.451
+\t (00:00:50) last pick:  -69.900 -12.500
+\t (00:00:50) Text "Tol"
+\i (00:00:51) delete 
+\i (00:00:53) delete 
+\i (00:00:54) pick grid -54.815 3.964
+\t (00:00:54) last pick:  -54.800 4.000
+\t (00:00:54) Text "Pn"
+\i (00:00:56) delete 
+\i (00:00:59) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SILKSCREENT"
+\i (00:00:59) color -globvis off 
+\i (00:00:59) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:00:59) color -vis 'BOARD GEOMETRY/SILKSCREEN_TOP' 
+\i (00:00:59) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:00:59) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:00:59) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (00:00:59) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:00:59) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:00:59) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:00:59) trapsize 3420
+\i (00:00:59) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: SILKSCREENT"
+\i (00:01:02) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SOLDERMASKT"
+\i (00:01:02) color -globvis off 
+\i (00:01:02) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:01:02) color -vis 'DRC ERROR CLASS/SOLDERMASK_TOP' 
+\i (00:01:02) color -vis PIN/SOLDERMASK_TOP 
+\i (00:01:02) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:01:02) trapsize 3420
+\i (00:01:02) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: SOLDERMASKT"
+\i (00:01:03) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:01:04) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: MAX_1555_TOP"
+\i (00:01:04) color -globvis off 
+\i (00:01:04) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:01:04) color -vis ETCH/TOP 
+\i (00:01:04) color -vis PIN/TOP 
+\i (00:01:04) color -vis 'VIA CLASS/TOP' 
+\i (00:01:04) color -vis 'ANTI ETCH/TOP' 
+\i (00:01:04) color -vis BOUNDARY/TOP 
+\i (00:01:04) color -vis CAVITY/TOP 
+\i (00:01:04) trapsize 3420
+\i (00:01:04) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: MAX_1555_TOP"
+\i (00:01:06) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged
+\i (00:01:06) QtSignal ColorVisibilityPane CVPViewDropdown activated
+\i (00:01:07) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:01:09) delete 
+\i (00:01:10) pick grid -238.804 -3.559
+\t (00:01:10) last pick:  -238.800 -3.600
+\t (00:01:10) Text "Built_By"
+\i (00:01:11) delete 
+\i (00:01:13) delete 
+\i (00:01:13) pick grid -79.438 -15.187
+\t (00:01:13) last pick:  -79.400 -15.200
+\t (00:01:13) Text "Dev"
+\i (00:01:15) delete 
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in -0.781 36.795
+\i (00:01:15) trapsize 1710
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in 2.639 28.587
+\i (00:01:15) trapsize 855
+\i (00:01:16) zoom out 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom out -1.465 19.866
+\i (00:01:16) trapsize 1710
+\i (00:01:16) zoom out 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom out -8.304 19.525
+\i (00:01:16) trapsize 3420
+\i (00:01:16) zoom out 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom out -20.616 9.265
+\i (00:01:16) trapsize 6840
+\i (00:01:21) label refdes 
+\t (00:01:22) Pick text location.
+\i (00:01:24) pick grid -86.278 260.968
+\t (00:01:24) last pick:  -100.000 300.000
+\t (00:01:24) Enter text string.
+\i (00:01:28) setwindow pcb
+\i (00:01:28) pick -100.000 300.000
+\i (00:01:34) setwindow form.mini
+\i (00:01:34) FORM mini subclass SILKSCREEN_BOTTOM 
+\i (00:01:35) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) pick grid -69.863 377.244
+\t (00:01:36) last pick:  -100.000 400.000
+\t (00:01:36) Enter text string.
+\i (00:01:39) setwindow pcb
+\i (00:01:39) pick -100.000 400.000
+\i (00:01:41) move 
+\t (00:01:41) Select element(s) to move.
+\i (00:01:42) pick grid -67.127 407.339
+\t (00:01:42) last pick:  -100.000 400.000
+\t (00:01:42) last pick:  -100.000 400.000
+\t (00:01:42) Pick new location for the element(s).
+\i (00:01:45) pick grid -84.911 251.393
+\t (00:01:45) last pick:  -100.000 300.000
+\i (00:01:45) pick grid -65.759 312.950
+\t (00:01:45) last pick:  -100.000 300.000
+\t (00:01:45) last pick:  -100.000 300.000
+\t (00:01:45) Pick new location for the element(s).
+\i (00:01:46) pick grid -54.816 248.657
+\t (00:01:46) last pick:  -100.000 200.000
+\i (00:01:47) pick grid -52.080 221.298
+\t (00:01:47) last pick:  -100.000 200.000
+\t (00:01:47) last pick:  -100.000 200.000
+\t (00:01:47) Pick new location for the element(s).
+\i (00:01:47) pick grid -49.344 226.770
+\t (00:01:47) last pick:  0.000 200.000
+\i (00:01:48) pick grid -2.834 236.345
+\t (00:01:48) last pick:  0.000 200.000
+\i (00:01:49) pick grid 8.110 225.402
+\t (00:01:49) last pick:  0.000 200.000
+\t (00:01:49) last pick:  0.000 200.000
+\t (00:01:49) Pick new location for the element(s).
+\i (00:01:50) pick grid -52.080 288.327
+\t (00:01:50) last pick:  -100.000 300.000
+\i (00:01:52) zoom out 1 
+\i (00:01:52) setwindow pcb
+\i (00:01:52) zoom out -68.495 330.734
+\i (00:01:52) trapsize 13679
+\i (00:01:52) zoom in 1 
+\i (00:01:52) setwindow pcb
+\i (00:01:52) zoom in -21.985 70.823
+\i (00:01:52) trapsize 6840
+\i (00:02:19) prmed 
+\i (00:02:21) setwindow form.prmedit
+\i (00:02:21) FORM prmedit text  
+\i (00:02:22) FORM prmedit design  
+\i (00:02:23) FORM prmedit units Millimeter 
+   (00:02:23) Accuracy or unit changes can cause design round-off issues. DRCs and physical changes should be checked.
+\i (00:02:24) fillin confirm
+\e (00:02:24) Change may cause round-off; run dbcheck.
+\i (00:02:25) FORM prmedit display  
+\i (00:02:27) FORM prmedit display_plated_holes YES 
+\i (00:02:28) FORM prmedit display_backdrill_holes YES 
+\i (00:02:28) FORM prmedit display_non_plated_holes YES 
+\i (00:02:29) FORM prmedit display_thermal YES 
+\i (00:02:31) FORM prmedit display_fat_rats YES 
+\i (00:02:32) FORM prmedit view_grids_button  
+\t (00:02:32) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:02:34) setwindow form.grid
+\i (00:02:34) FORM grid non_etch non_etch_x_grids 0.05 
+\i (00:02:35) FORM grid non_etch non_etch_y_grids 0.05 
+\i (00:02:37) FORM grid top subclass_x_grids 0.05 
+\i (00:02:39) FORM grid top subclass_y_grids 0.05 
+\i (00:02:41) FORM grid bottom subclass_x_grids 0.05 
+\i (00:02:42) FORM grid bottom subclass_y_grids 0.05 
+\i (00:02:42) FORM grid done  
+\i (00:02:44) setwindow form.prmedit
+\i (00:02:44) FORM prmedit display_grid YES 
+\t (00:02:44) Grids are drawn 6.400, 6.400 apart for enhanced viewability.
+\i (00:02:44) FORM prmedit done  
+\w (00:02:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:44) Grids are drawn 0.1664, 0.1664 apart for enhanced viewability.
+\i (00:02:44) setwindow pcb
+\i (00:02:44) trapsize 1737
+\t (00:02:44) Performing DRC...
+\t (00:02:44) No DRC errors detected.
+\i (00:02:44) trapsize 1677
+\i (00:02:45) trapsize 1737
+\i (00:02:45) etchedit 
+\i (00:02:47) move 
+\t (00:02:47) Select element(s) to move.
+\i (00:02:48) pick grid -1.0447 7.8101
+\t (00:02:48) last pick:  -1.0452 7.8104
+\t (00:02:48) last pick:  -2.5400 7.6200
+\t (00:02:48) Pick new location for the element(s).
+\i (00:02:50) pick grid -1.9828 5.6905
+\t (00:02:50) last pick:  -1.9825 5.6901
+\i (00:02:50) pick grid -1.5658 7.8101
+\t (00:02:50) last pick:  -1.5652 7.8104
+\t (00:02:50) last pick:  -2.5400 7.6200
+\t (00:02:50) Pick new location for the element(s).
+\i (00:02:51) zoom in 1 
+\i (00:02:51) setwindow pcb
+\i (00:02:51) zoom in -1.6006 5.9685
+\t (00:02:51) Grids are drawn 0.0832, 0.0832 apart for enhanced viewability.
+\i (00:02:51) trapsize 869
+\i (00:02:51) zoom in 1 
+\i (00:02:51) setwindow pcb
+\i (00:02:51) zoom in -1.6006 5.9685
+\t (00:02:51) Grids are drawn 0.0416, 0.0416 apart for enhanced viewability.
+\i (00:02:51) trapsize 434
+\i (00:02:51) zoom in 1 
+\i (00:02:51) setwindow pcb
+\i (00:02:51) zoom in -1.6006 5.9338
+\t (00:02:51) Grids are drawn 0.0208, 0.0208 apart for enhanced viewability.
+\i (00:02:51) trapsize 217
+\i (00:02:58) pick grid -1.9828 5.6862
+\t (00:02:58) last pick:  -1.9825 5.6862
+\i (00:02:59) zoom out 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom out -0.9187 5.4690
+\t (00:02:59) Grids are drawn 0.0416, 0.0416 apart for enhanced viewability.
+\i (00:02:59) trapsize 434
+\i (00:02:59) zoom out 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom out -0.8405 5.4343
+\t (00:02:59) Grids are drawn 0.0832, 0.0832 apart for enhanced viewability.
+\i (00:02:59) trapsize 869
+\i (00:02:59) zoom out 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom out -0.5799 5.1912
+\t (00:02:59) Grids are drawn 0.1664, 0.1664 apart for enhanced viewability.
+\i (00:02:59) trapsize 1737
+\i (00:02:59) prepopup -5.4094 9.0132
+\i (00:03:00) done 
+\i (00:03:00) etchedit 
+\i (00:03:01) zoom out 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom out 1.6440 2.6547
+\t (00:03:01) Grids are drawn 0.3328, 0.3328 apart for enhanced viewability.
+\i (00:03:01) trapsize 3475
+\i (00:03:01) zoom out 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom out 2.6168 2.0988
+\t (00:03:01) Grids are drawn 0.6656, 0.6656 apart for enhanced viewability.
+\i (00:03:01) trapsize 6949
+\i (00:03:01) zoom in 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom in 11.2930 -3.4734
+\t (00:03:01) Grids are drawn 0.3328, 0.3328 apart for enhanced viewability.
+\i (00:03:01) trapsize 3475
+\i (00:03:02) zoom in 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom in 4.5839 -1.4581
+\t (00:03:02) Grids are drawn 0.1664, 0.1664 apart for enhanced viewability.
+\i (00:03:02) trapsize 1737
+\i (00:03:02) zoom in 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom in -1.6704 4.6572
+\t (00:03:02) Grids are drawn 0.0832, 0.0832 apart for enhanced viewability.
+\i (00:03:02) trapsize 869
+\i (00:03:03) zoom out 1 
+\i (00:03:03) setwindow pcb
+\i (00:03:03) zoom out -1.6182 4.3966
+\t (00:03:03) Grids are drawn 0.1664, 0.1664 apart for enhanced viewability.
+\i (00:03:03) trapsize 1737
+\i (00:03:05) dbdoctor 
+\i (00:03:07) setwindow form.dbdoctor_allegro
+\i (00:03:07) FORM dbdoctor_allegro drc YES 
+\i (00:03:07) FORM dbdoctor_allegro shapes YES 
+\i (00:03:07) FORM dbdoctor_allegro execute  
+\t (00:03:07) Dbdoctor in progress - wait...
+\t (00:03:08) Checking db records
+\t (00:03:08)     checking for orphans...
+\t (00:03:08)     Checked 100 percent
+\t (00:03:08) Regenerating DRC
+\t (00:03:08)   Original DRC errors: 0
+\t (00:03:08) Performing DRC...
+\t (00:03:08) No DRC errors detected.
+\t (00:03:08)   Updated DRC errors:  0
+\t (00:03:08) Done dbdoctor.
+\t (00:03:08) Dbdoctor completed.
+\i (00:03:09) FORM dbdoctor_allegro close  
+\i (00:03:09) setwindow pcb
+\i (00:03:09) etchedit 
+\i (00:03:10) save 
+\i (00:03:11) fillin yes 
+   (00:03:11) Loading signal.cxt 
+\t (00:03:12) Symbol 'conn_jst_sm02b-srss.psm' created.
+\i (00:03:12) etchedit 
+\i (00:03:12) exit 
+\t (00:03:12)     Journal end - Mon Dec 16 18:01:32 2019

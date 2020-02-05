@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : cc2640RGZ.dra                                 )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Fri Dec 13 16:51:36 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/myOrcadLibrary/Footprints
+    Name      = cc2640rgz.psm
+    User      = franc
+    Machine   = DESKTOP-EM4OTQC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

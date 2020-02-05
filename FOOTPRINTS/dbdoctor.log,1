@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : SM-UART-04L.dra                               )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Thu Dec 05 22:38:44 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR: in SHAPE (no segment)
+  class = PACKAGE GEOMETRY
+  subclass = SILKSCREEN_TOP 
+  WARNING(SPMHA1-62): Illegal parent identifier.
+   Error was fixed, object was deleted.
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 1 errors detected, 1 errors  fixed.

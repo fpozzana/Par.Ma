@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TSX-3225.dra                                  )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Tue Dec 03 11:13:42 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS
+    Name      = tsx-3225.psm
+    User      = FEDERICO
+    Machine   = PC-FEDERICO
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

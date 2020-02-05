@@ -1,0 +1,44 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : JS202011SCQN-DPDT.dra                         )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Tue Dec 03 10:57:01 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS
+    Name      = js202011scqn-dpdt.psm
+    User      = FEDERICO
+    Machine   = PC-FEDERICO
+
+
+Create symbol started.
+ 
+ WARNING(SPMHA1-269): Shape has no segments. 1167365992 
+SHAPE        @1167365992
+1)  mask              = 40
+2)  class             = 9 = PACKAGE GEOMETRY
+3)  subclass          = 247 = SILKSCREEN_TOP
+4)  branch_link       = 1167322640
+5)  branch_ptr        = 1167212840
+6)  symbol_ins_link   = 0
+7)  symbol_ins_ptr    = 0
+8)  first_connection       = 0
+9)  first_void        = 0
+10) first_outline_seg = 0
+11) first_patch_set   = 0
+12) shape_fill        = 0
+13) first_text        = 0
+14) first_relation    = 0
+15) extents.min       = (0, 0)
+16) extents.max       = (0, 0)
+17) prev_branch_item  = 0
+
+ WARNING(SPMHA1-269): Shape has no segments. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

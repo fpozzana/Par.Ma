@@ -1,0 +1,49 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Mon Dec 16 18:01:35 2019
+\t (00:00:01)         Host=PC-FEDERICO User=FEDERICO Pid=18164 CPUs=4
+\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\CON00906_5.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: C:/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/CON00906_5.dra
+\i (00:00:04) trapsize 3030
+\i (00:00:04) trapsize 3138
+\i (00:00:04) trapsize 3138
+\i (00:00:05) etchedit 
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 94.490 -7.166
+\i (00:00:05) trapsize 6275
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 10.400 12.916
+\i (00:00:05) trapsize 12551
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -54.865 5.385
+\i (00:00:06) trapsize 6275
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -53.609 0.365
+\i (00:00:06) trapsize 3138
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -54.236 -2.145
+\i (00:00:06) trapsize 1569
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -1.209 -5.283
+\i (00:00:08) trapsize 3138
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -16.269 -4.028
+\i (00:00:08) trapsize 6275
+\i (00:00:10) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:10) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:11) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:11) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:12) exit 
+\e (00:00:12) Do you want to save the changes you made to CON00906_5.dra?
+\i (00:00:14) fillin yes 
+\t (00:00:14) Symbol 'con00906_5.psm' created.
+\t (00:00:14)     Journal end - Mon Dec 16 18:01:48 2019

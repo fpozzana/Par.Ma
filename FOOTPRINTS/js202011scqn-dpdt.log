@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : JS202011SCQN-DPDT.dra                         )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Tue Dec 03 10:58:03 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS
+    Name      = js202011scqn-dpdt.psm
+    User      = FEDERICO
+    Machine   = PC-FEDERICO
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

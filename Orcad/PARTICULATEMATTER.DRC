@@ -1,0 +1,61 @@
+Date and Time : 01/10/20 17:37:20
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict GND_SIGNAL  Power Connected to Bidirectional
+                    SCHEMATIC1, PERIPHERALS  (3.20, 3.50) 
+WARNING(ORCAP-1829): Possible pin type conflict J3,9  Bidirectional Connected to Power
+                    SCHEMATIC1, PERIPHERALS  (1.70, 5.60) 
+WARNING(ORCAP-1829): Possible pin type conflict J3,1  Bidirectional Connected to Power
+                    SCHEMATIC1, PERIPHERALS  (1.70, 5.20) 
+WARNING(ORCAP-1829): Possible pin type conflict J3,3  Bidirectional Connected to Power
+                    SCHEMATIC1, PERIPHERALS  (1.70, 5.30) 
+WARNING(ORCAP-1829): Possible pin type conflict J3,5  Bidirectional Connected to Power
+                    SCHEMATIC1, PERIPHERALS  (1.70, 5.40) 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Entire Design: PARTICULATEMATTER 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2211): Check High Speed Properties Syntax
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------

@@ -1,0 +1,48 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : smd_MAX1555.dra                               )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Tue Oct 29 17:16:47 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Tue Oct 29 17:16:47 2019				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/smd_MAX1555.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/ORCAD_PERSONAL_LIBRARY/PADSTACKS/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'SMD_RECTANGLE_0W55_1H3'  pad stack refresh starting.
+
+     'SMD_RECTANGLE_0W55_1H3'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

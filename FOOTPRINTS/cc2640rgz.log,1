@@ -1,0 +1,44 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : cc2640RGZ.dra                                 )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Fri Dec 13 16:48:31 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/myOrcadLibrary/Footprints
+    Name      = cc2640rgz.psm
+    User      = franc
+    Machine   = DESKTOP-EM4OTQC
+
+
+Create symbol started.
+ 
+ WARNING(SPMHA1-269): Shape has no segments. 561349984 
+SHAPE        @561349984
+1)  mask              = 40
+2)  class             = 9 = PACKAGE GEOMETRY
+3)  subclass          = 253 = ASSEMBLY_TOP
+4)  branch_link       = 565248216
+5)  branch_ptr        = 565248216
+6)  symbol_ins_link   = 0
+7)  symbol_ins_ptr    = 0
+8)  first_connection       = 0
+9)  first_void        = 0
+10) first_outline_seg = 0
+11) first_patch_set   = 0
+12) shape_fill        = 1
+13) first_text        = 0
+14) first_relation    = 0
+15) extents.min       = (0, 0)
+16) extents.max       = (0, 0)
+17) prev_branch_item  = 0
+
+ WARNING(SPMHA1-269): Shape has no segments. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+
